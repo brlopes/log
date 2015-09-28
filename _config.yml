@@ -1,11 +1,11 @@
 # Site settings
-title: My Blog
-email: coolwebconfs@gmail.com
-description: My simple blog.
-baseurl: ""
-url: ""
-twitter_username: 
-avatar: "" # Set footer avatar
+title: retention
+email: contact@brunorl.com
+description: clog (code log)
+baseurl: "/log"
+# url: ""
+twitter_username: brunorl_
+avatar: "https://pbs.twimg.com/profile_images/504866001742094338/bXvG5z0s.jpeg" # Set footer avatar
 paginate: 3
 
 # Build settings
@@ -19,8 +19,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "My Author" # Set default author name
-      categories: "cats"
+      author: "b" # Set default author name
+      categories: "stuff"
       layout: "post"
       comments: true
   -
