@@ -6,7 +6,7 @@ baseurl: "/log"
 # url: ""
 twitter_username: brunorl_
 avatar: "https://pbs.twimg.com/profile_images/504866001742094338/bXvG5z0s.jpeg" # Set footer avatar
-paginate: 3
+paginate: 13
 
 # Build settings
 markdown: kramdown
@@ -22,7 +22,7 @@ defaults:
       author: "b" # Set default author name
       categories: "stuff"
       layout: "post"
-      comments: true
+      comments: false
   -
     scope:
       path: ""
