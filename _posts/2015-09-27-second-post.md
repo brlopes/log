@@ -1,5 +1,5 @@
 ---
-title:  "Project Name"
+title:  "Markup stuff"
 categories: sample
 image: http://i.imgur.com/Ej5Qpoh.jpg
 ---
