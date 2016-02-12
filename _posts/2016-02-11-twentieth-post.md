@@ -12,4 +12,6 @@ this **works**
 __need fix__
 
 do we support embeded img on md: 
-![alt text](http://i.imgur.com/1KfurPt.png "Logo Title Text 1")
+
+
+![alt text](http://i.imgur.com/1KfurPt.png "some random thing")
