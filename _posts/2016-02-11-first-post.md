@@ -7,6 +7,7 @@ image: http://i.imgur.com/1KfurPt.png
 # H1
 ## H2 ...
 
-this *works*
-_need fix_
+this **works**
+
+__need fix__
 
