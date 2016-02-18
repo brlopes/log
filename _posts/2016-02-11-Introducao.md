@@ -1,21 +1,53 @@
 ---
-title:  "Daily Post"
+title:  "Post"
 categories: clog
 image: none
 ---
 
-![alt text](https://goo.gl/reEIOB "kct")
+# side projects
 
-Im trully impressed
+ __ LISTS are mutable __
 
-lets stick to images and gifs
+ ##### Table of Contents
+ [tldr;](#tldr;)
+ [latest](#latest)
 
-not bad, just wonder what happens after the 100th post..
+## tldr;
+
+`how started`  
+me, looking to design a better web interface for an old ip camera  
+have, raspberry pi and LAMP stack (+ perl/python..)
+
+`#what happened`  
+then developed web server using python & flask    
+then found out the url for stream  
+then setup the stream using python *mjpeg* library  
+then added web interface for stream  
+then with gabe's help found out how to POST php requests to move camera (PTZ) from html buttons  
+then pushed the latest code revision to .github and left the project on standby
+[reference pdf documentation saved on root]
 
 
-## noice!
+`#andthen...`  
+The initial plan was to build a better web interface for an IP camera, but Synology updated their nice SurveillanceStation software making it compatible with my IP camera model, and at this point a better interface is already designed..
 
-![alt text](http://i.imgur.com/dsZbI8Z.gif "some random thing")
 
+`what might still happen`  
+The final plan is to use this python code to create and upload automated 3D [ ] photo sphere images,  
+and then later use google cardboard to augment the environment from a file  
+I've recently got a Nexus 5 and Im bidding time (this year!) to get back to the final plan
 
-Essa parada eh markdown, com suporte para embeded images e previewna pagina principal a ordem nao parece importar, somente data
+## latest
+Im forking this code to stream my home whiteboard updates on my site,   
+:D  
+
+```python
+#!/bin/python
+'''
+captures
+'''
+# camera video stream
+# http://192.168.x.x/mjpeg
+# static
+# http://admin:admin@192.168.x.x/oneshotimage.jpg
+```
