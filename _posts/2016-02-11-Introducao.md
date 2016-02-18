@@ -1,9 +1,3 @@
----
-title:  "Post"
-categories: clog
-image: none
----
-
 # side projects
 
  __ LISTS are mutable __
@@ -44,7 +38,8 @@ Im forking this code to stream my home whiteboard updates on my site,
 ```python
 #!/bin/python
 '''
-captures
+capture image
+upload image
 '''
 # camera video stream
 # http://192.168.x.x/mjpeg
