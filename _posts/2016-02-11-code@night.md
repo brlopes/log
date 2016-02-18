@@ -1,5 +1,10 @@
+
+![alt text](http://i.imgur.com/cFU7KkC.png "lousa branca")
+
+
 ###  Table of Contents  
-https://github.com/brlopes/log/edit/gh-pages/_posts/2016-02-11-Intro.md#
+
+
 [PTZ_STICK](#PTZ_STICK)  
 [whiteboard](#whiteboard)  
 
@@ -32,8 +37,8 @@ I've recently got a Nexus 5 and Im bidding time (this year!) to get back to the 
 ---
 
 ### whiteboard.py  
-Im forking this code to stream my home whiteboard updates on my site,   
-:D  
+Im forking this code to stream my home whiteboard,   
+D:  
 
 ```python
 #!/bin/python
