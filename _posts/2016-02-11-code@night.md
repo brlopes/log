@@ -1,10 +1,10 @@
 ###  Table of Contents  
-
-[tldr;](#tldr;)  
-[latest](#latest)  
+https://github.com/brlopes/log/edit/gh-pages/_posts/2016-02-11-Intro.md#
+[PTZ_STICK](#PTZ_STICK)  
+[whiteboard](#whiteboard)  
 
 ---
-## tldr;
+## PTZ_STICK.py
 
 ### how started  
 >me, looking to design a better web interface for an old ip camera  
@@ -24,12 +24,14 @@ then pushed the latest code revision to .github and left the project on standby
 >The initial plan was to build a better web interface for an IP camera, but Synology updated their nice SurveillanceStation software making it compatible with my IP camera model, and at this point a better interface is already designed..
 
 
-`what might still happen`  
+### what might still happen  
 >The final plan is to use this python code to create and upload automated 3D [ ] photo sphere images,  
 and then later use google cardboard to augment the environment from a file  
 I've recently got a Nexus 5 and Im bidding time (this year!) to get back to the final plan
 
-### latest  
+---
+
+### whiteboard.py  
 Im forking this code to stream my home whiteboard updates on my site,   
 :D  
 
